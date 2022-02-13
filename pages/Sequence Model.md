@@ -1,0 +1,17 @@
+- Merupakan machine learning model yang input dan/atau outputnya adalah data sekuensial.
+- Model yang menyelesaikan task of predicting data apa yang selanjutnya akan keluar diberikan sekuens data lain sebagai input
+	- Panjang input dari sequence model tidaklah fix.
+- Contoh sequential data task:
+	- text streams
+	- audio clips
+	- video clips
+	- time series data
+	- autocompletion
+- Dalam satu dataset sequence of datas, panjang dari tiap data dalam dataset tidak harus sama
+	- Contoh: misal dataset `X = {x_1, x_2, ..., x_n}`
+		- len(x_1) bisa tidak sama dengan len(x_2)
+		- Misal dalam text generation, `x_1` adalah kalimat, yang terdiri dari kata `x_1<1>, x_1<2>, ...`
+		- `x_i<j>` adalah kata yang dapat direpresentasikan dalam bentuk vektor, seperti dengan menggunakan one hot encoding, word2vec dll
+- Output dari tiap data/row pun tidak harus sama
+	- len(y_1) bisa tidak sama dengan len(y_2)
+- Skema sequence model yang lebih fleksibel ini yang membuat lebih baik untuk input dan output yang panjangnya tidak sama, berbeda dengan standard NN.
