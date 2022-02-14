@@ -1,0 +1,36 @@
+- bentuk declarative programming
+- digunakan untuk menyelesaikan NP-hard search problem
+- menghasilkan set of answers
+	- disebut sebagai stable model
+- menggunakan [[Autoepistemic Reasoning]] dan [[Default Reasoning]]
+- domain aplikasi:
+	- action and changes
+	- planning
+	- configuration
+	- wire routing
+	- semantic web
+	- information integration
+-
+- Procedural vs declarative
+- ![image.png](../assets/image_1644851456290_0.png)
+-
+- Sifat:
+	- problemnya diformulasikan dalam logic theory
+	- melakukan komputasi terhadap suatu model
+	- menggunakan prinsip non-monotonic reasoning
+	- ability to express non-determinism
+-
+- Syntax:
+	- menggunakan disjunctive logic (or)
+	- ![image.png](../assets/image_1644852183041_0.png)
+	-
+	-
+- Contoh:
+	- ![image.png](../assets/image_1644852382436_0.png)
+	- ![image.png](../assets/image_1644852502414_0.png)
+		- kalimat kedua itu jadi 3 rule, r2 - r4
+	- ![image.png](../assets/image_1644852590763_0.png)
+		-
+-
+-
+	-

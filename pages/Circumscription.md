@@ -1,0 +1,9 @@
+- Artinya adlaah restriction/batasan
+- contoh:
+	- ![image.png](../assets/image_1644849588472_0.png)
+	- apabila tak ada knowledge bahwa sesuatu abnormal, (belief that everything is normal), kita bisa ambil conclusionny
+-
+- ![image.png](../assets/image_1644850885908_0.png)
+-
+-
+-

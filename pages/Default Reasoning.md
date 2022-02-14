@@ -1,0 +1,19 @@
+- Menggunakan default logic
+- dimulai dengan memiliki knowledge base awal
+	- lalu diturunkan menjadi set of implicit beliefs
+		- penurunannya ini disebut sebagai entailment
+-
+- Notasi:
+	- ![image.png](../assets/image_1644845648839_0.png)
+	- A disebut prerequisites/syarat
+	- B1:BN disebut sebagai justifikasi/kondisi yang mendukung A
+	- C adalah konsekuensi/hasil/kesimpulan
+	-
+- Default theory adalah pasangan (D,W) dengan d adalah defaultw dan W adalah set of sentence in FOL
+	- ![image.png](../assets/image_1644845962249_0.png)
+	- arti dari 6.2 adalah, kita bisa membuat ekstensi dari default yang sudah ada, tidak seperti monotonic logic
+	-
+	-
+	-
+-
+	-

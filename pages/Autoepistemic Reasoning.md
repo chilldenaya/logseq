@@ -1,0 +1,11 @@
+- Dibuat untuk menyediakan cara formal untuk bisa memasukkan sisi belief ke dalam knowledge base, given some assumptions
+- Ciri khas dari autoepistemic adalah belief nya
+- Notasi yang digunakan adalah K
+	- contoh: K hujan(x)
+		- saya yakin hari x akan hujan
+	- ![image.png](../assets/image_1644846852884_0.png)
+	- artinya kita yakin prof j dan tidak meyakini bahwa dia tidak mengajar, maka j ngajar
+-
+- ![image.png](../assets/image_1644847200603_0.png)
+-
+-
