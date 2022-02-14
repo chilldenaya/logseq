@@ -37,6 +37,10 @@
 - Ref: [[RNN Backpropagation]]
 -
 -
+- # Types of RNN
+- ![image.png](../assets/image_1644747960051_0.png)
+-
+-
 - # LSTM
 - Ref: [[Long Short-Term Memory]]
 -

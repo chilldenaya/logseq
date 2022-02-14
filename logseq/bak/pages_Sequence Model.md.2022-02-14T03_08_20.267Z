@@ -2,13 +2,11 @@
 - Model yang menyelesaikan task of predicting data apa yang selanjutnya akan keluar diberikan sekuens data lain sebagai input
 	- Panjang input dari sequence model tidaklah fix.
 - Contoh sequential data task:
-	- NLP tasks
-		- autocompletion
-		- text classification
 	- text streams
 	- audio clips
 	- video clips
 	- time series data
+	- autocompletion
 - Dalam satu dataset sequence of datas, panjang dari tiap data dalam dataset tidak harus sama
 	- Contoh: misal dataset `X = {x_1, x_2, ..., x_n}`
 		- len(x_1) bisa tidak sama dengan len(x_2)

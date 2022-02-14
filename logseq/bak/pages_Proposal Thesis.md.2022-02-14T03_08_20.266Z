@@ -1,11 +1,3 @@
-- [[NLP]] task
-	- akan menyelesaikan salah satu task NLP
-	- contoh:
-		- sentiment analysis
-		- text classification
-		- autocompletion
-		- text generation
--
 - II.1 [[Recurrent Neural Network]]
 	- Recurrent Neural Network adalah
 	- Kapan RNN digunakan?
@@ -25,4 +17,5 @@
 	- Apa itu WANN
 	- Kenapa bisa muncul WANN
 	- Gimana contoh pengaplikasiannya
+-
 -

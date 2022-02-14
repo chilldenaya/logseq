@@ -1,0 +1,15 @@
+- Classify an instance into a sequence of labels
+- menggunakan label yang sebelumnya untuk memberikan label token selanjutnya
+- contoh:
+	- POS Tagger
+	- Name entity tagger
+	- phrase chunker
+	- keyword extraction
+	- answer finder
+-
+- POS Tagger classifier:
+	- Machine learning
+	- HMM
+	- [[BERT]]
+	- [[Sequence Model]]
+	-

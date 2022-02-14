@@ -1,12 +1,15 @@
 [{:block/name "",
-  :block/created-at 1644720393174,
-  :block/updated-at 1644720393174}
+  :block/created-at 1644811555127,
+  :block/updated-at 1644811555127}
  {:block/name "a",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
  {:block/name "b",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "bert",
+  :block/created-at 1644811555125,
+  :block/updated-at 1644811555125}
  {:block/name "c",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
@@ -14,8 +17,8 @@
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
  {:block/name "contents",
-  :block/created-at 1644720393174,
-  :block/updated-at 1644720393174}
+  :block/created-at 1644811555125,
+  :block/updated-at 1644811555125}
  {:block/name "doing",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
@@ -31,24 +34,67 @@
  {:block/name "feb 13th, 2022",
   :block/created-at 1644710400000,
   :block/updated-at 1644710400000}
+ {:block/name "gated recurrent unit",
+  :block/created-at 1644811555127,
+  :block/updated-at 1644811555127}
  {:block/name "in-progress",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
  {:block/name "later",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "long short-term memory",
+  :block/created-at 1644721508414,
+  :block/updated-at 1644721513533}
+ {:block/name "neural architecture search",
+  :block/created-at 1644811555125,
+  :block/updated-at 1644811555125}
+ {:block/name "neural network",
+  :block/created-at 1644811555127,
+  :block/updated-at 1644811555127}
+ {:block/name "nlp",
+  :block/created-at 1644804213917,
+  :block/updated-at 1644808598938}
  {:block/name "now",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "preprocessing",
+  :block/created-at 1644811555127,
+  :block/updated-at 1644811555127}
+ {:block/name "proposal thesis",
+  :block/created-at 1644720470725,
+  :block/updated-at 1644804523011}
+ {:block/name "readme",
+  :block/created-at 1644811555127,
+  :block/updated-at 1644811555127}
  {:block/name "recurrent neural network",
-  :block/created-at 1644720393174,
-  :block/updated-at 1644720393174}
+  :block/created-at 1644721221836,
+  :block/updated-at 1644747961386}
+ {:block/name "rnn backpropagation",
+  :block/created-at 1644738264980,
+  :block/updated-at 1644738487086}
+ {:block/name "sequence labelling",
+  :block/created-at 1644808618157,
+  :block/updated-at 1644810013478}
+ {:block/name "sequence model",
+  :block/created-at 1644722027740,
+  :block/updated-at 1644804406176}
+ {:block/name "text classification",
+  :block/created-at 1644804989039,
+  :block/updated-at 1644807993032}
  {:block/name "todo",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name
+  "understanding lstm -- a tutorial into long short-term memory recurrent neural networks",
+  :block/created-at 1644721453860,
+  :block/updated-at 1644721531709}
  {:block/name "wait",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
  {:block/name "waiting",
-  :block/created-at 1644671818819, 
-  :block/updated-at 1644671818819}]
+  :block/created-at 1644671818819,
+  :block/updated-at 1644671818819}
+ {:block/name "weight agnostic neural network",
+  :block/created-at 1644811555125, 
+  :block/updated-at 1644811555125}]
