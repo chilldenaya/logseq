@@ -1,0 +1,36 @@
+- Company yang menggunakan data dalam decision making, 5% lebih produktif dan 6% lebih profitable (McAfee 2012)
+-
+- Six questions manager should ask to make a data driven decision making:
+	- source datanya dari mana
+	- seberapa baik sample data merepresentasikan populasi
+	- apakah data banyak outliernya? gimana akibatnya?
+	- apa saja asumsi yang digunakan untuk melakukan analisis? adakah asumsi baru yang nantinya baru akan memengaruhi hasil akhir analisis?
+	- apa particular analytic approach nya?
+	- how likely independent variable tertentu memengaruhi dependent variable lain
+	-
+- Data:
+	- Adalah sesuatu yang dapat diukur, measurable things
+	- yang perlu dipahami jika ingin menggunakan/mendapatkan data:
+		- concept of measurement
+			- bahwa sejatinya semua measurement itu tidak pasti
+		- definition of measurement
+			- a quantitatively expressed reduction of uncertainty based on one or more observations
+		- object of measurement
+			- kita harus bisa menjelaskan apa definisi dari object yang mau diukur
+			- contoh:
+				- customer satisfaction
+					- apa itu satisfaction? gimana ngukurnya? apa definisinya?
+	-
+- Four useful measurement assumptions:
+	- problem yang ada gak unique, pasti udah ada contoh lain
+	- you have more data than u think
+	- need less data than we think
+	- adequate amount of data is more accessible than we think
+	-
+-
+-
+	-
+	-
+-
+	-
+	-
