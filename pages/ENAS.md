@@ -1,0 +1,3 @@
+- [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/pdf/1802.03268.pdf)
+- Basically ENAS ini kaya NAS yang tiap generationnya itu adalah hasil transfer learning dari generation sebelumnya? jadinya iterasi di tiap generation lebih cepet
+-
