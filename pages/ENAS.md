@@ -1,3 +1,8 @@
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/pdf/1802.03268.pdf)
-- Basically ENAS ini kaya NAS yang tiap generationnya itu adalah hasil transfer learning dari generation sebelumnya? jadinya iterasi di tiap generation lebih cepet
--
+- Sesuai dengan namanya, ENAS memberikan formulasi pencarian arsitektur yang lebih efisien dibandingkan dengan NAS. ... dalam peneelitiannya mendapatkan bahwa ENAS menghasilkan model dengan kinerja yang lebih baik dari NAS dengan waktu kerja 1000x lebih cepat.
+- Dalam NAS, controller yang berupa recurrent network menciptakan suatu child network. Child network tersebut lalu melakukan pelatihan terhadap data training untuk melatih bobot - bobotnya. Validation data juga digunakan untuk menghitung kinerja. Hal utama yang membuat NAS lambat adalah pelatihan bobot dilakukan tiap pembentukan child network. Dalam iterasi selanjutnya, parameter yang sudah dilatih untuk child network sebelumnya tidak digunakan sama sekali. Proses pelatihan dilakukan mulai dari awal lagi.
+- ENAS menggunakan suatu controller yang mampu menggunakan parameter yang sudah dihasilkan dari proses train oleh child network sebelumnya untuk digunakan oleh child network di iterasi selanjutnya.
+- Ide pokok dari ENAS adalah search space dari NAS dapat direpresentasikan menjadi suatu direct acyclic graph. Suatu child network dapat diambil dari DAG ini dengan cara mengambil subgrafnya.
+- Simpul dari graf ini merepresentasikan local computation dan garis dalam graf menunjukkan perjalanan informasi di dalam graf. Tiap simpul memiliki parameter lokalnya sendiri.
+- untuk pemilihan child network dalam ENAS, controller ENAS akan 1. mengaktifkan node dan vertex tertentu dan 2. menentukan komputasi apa yang akan dilakukan dalam node. Jadi, dengan adanya DAG ini, parameter yang sudah ditrain dalam iterasi sebelumnya dapat digunakan kembali.
+- Dalam tahap akhir, model yang menghasilkan nilai kinerja terbaik untuk suatu minibatch validation dataset akan dipilih menjadi model akhir ENAS. Arsitektur ini lantas ditrain ulang untuk mencari nilai parameter yang lebih baik.

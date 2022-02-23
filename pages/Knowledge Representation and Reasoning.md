@@ -34,4 +34,6 @@
 - Knowledge Representation:
 	- [[Propositional Logic]]
 	- [[Relational Logic]]
+	- [[Non-Monotonic Logic]]
 	-
+-

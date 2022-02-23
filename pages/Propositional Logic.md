@@ -21,8 +21,8 @@
 			- ![image.png](../assets/image_1644994250857_0.png)
 			- ![image.png](../assets/image_1644994290165_0.png)
 		- unsatisfiability checking
-			- ![image.png](../assets/image_1644994260618_0.png)
-			- ![image.png](../assets/image_1644994305703_0.png){:height 369, :width 686}
+			- ![image.png](../assets/image_1644994260618_0.png){:height 103, :width 430}
+			- ![image.png](../assets/image_1644994305703_0.png){:height 341, :width 413}
 	- proof method
 		- rule of inference
 			- ![image.png](../assets/image_1644994870067_0.png)
