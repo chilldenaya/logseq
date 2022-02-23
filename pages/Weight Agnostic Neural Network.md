@@ -17,7 +17,7 @@
 - Networks topologies are judged based on three criteria: mean performance
   over all weight values, max performance of the single best weight value, and the number of connections in the network.
 - TODO hal menarik dalam wann adalah kita bisa liat perjalanan informasi dalam network, contoh ketika bipedal
-- WANN menggunakan operator NEAT untuk pencarian arsitekturnya
+- WANN menggunakan operator [[NEAT]] untuk pencarian arsitekturnya
 	- The operators used to search for neural network topologies are inspired by the wellestablished neuroevolution algorithm NEAT [110]. While in NEAT the topology and weight values
 	  are optimized simultaneously, we ignore the weights and apply only topological search operators.
 -

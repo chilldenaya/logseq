@@ -1,0 +1,24 @@
+- Bab I:
+	- tambahkan
+		- <kinerja wann>
+		- <sudah di task mana aja>
+-
+-
+- untrained neural network
+	- cari kelemahan/kelebihan wann terhadap untrained nn lain
+-
+- dimana saja wann bagus
+	- task mana yang bagus/yang kurang
+	- cari alternative task yang cocok buat wann
+-
+- dimana saja wann belum pernah diaplikasikan
+-
+- cartesian genetic programming
+	- neural architecture search terbaru
+	- 5:24 PM
+	  Wua, X., Zhanga, X., Jiaa, L., Chenc, L., Liangd, Y., Zhoua, Y., & Wua, C. (2021). Neural Architecture Search based on the Cartesian Genetic Programming. Neurocomputing, 1, 11.
+	-
+- NEAT untuk sentiment analysis
+	- Hernández-Hernández, J. C., Mezura-Montes, E., Hoyos-Rivera, G. D. J., & Rodríguez-López, O. (2021, June). Neuroevolution for Sentiment Analysis in Tweets Written in Mexican Spanish. In Mexican Conference on Pattern Recognition (pp. 101-110). Springer, Cham.
+-
+- TODO Beberapa riset berfokus dalam mengembangkan metode pengukuran kinerja yang lebih hemat sumber daya < >.

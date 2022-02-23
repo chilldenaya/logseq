@@ -1,0 +1,3 @@
+- [[23 Feb]]
+	- fokus ke belajar untrained neural network
+-
