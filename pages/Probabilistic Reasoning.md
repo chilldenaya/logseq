@@ -1,0 +1,11 @@
+- pembuatan kesimpulan dari peluang
+	- salah satu bentuk representasi pengetahuan
+-
+- Abduction:
+	- reasoning/inferensi yang menghasilkan hipotesis dari kumpulan fakta yang ada
+	- ![image.png](../assets/image_1645752155391_0.png)
+	- wlaupun begini, kita bisa ambil keputusan dengan probability of A
+	- disebut probabilistic reasoning
+		- atau bayesian reasoning
+-
+-

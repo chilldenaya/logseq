@@ -1,3 +1,11 @@
 - [[23 Feb]]
-	- fokus ke belajar untrained neural network
+	- fokus ke belajar WANN lebih dalam,
+		- dimana bagusnya
+		- dimana jeleknya
+	- akhirnya putuskan fokus di reinforcement learning
+		- karena dari paper WANN, RL bagus
 -
+- [[2 Maret]]
+	- Fokus ke WANN
+		- classification sudah dibuang
+		- fokus ke RL

@@ -1,0 +1,13 @@
+- fokus ke reinformencent learning for nlp
+	- periksa apakah wann ini bisa masuk ke nlp
+-
+- baca code
+	- apakah bisa implement tensor/torch
+-
+- periksa wann ke text generation
+	- reinforcement learning secara abstratif
+		- ada dua reinforcement learning:
+			- abstractive: generation,
+			- extractive: summarizaiton
+-
+-

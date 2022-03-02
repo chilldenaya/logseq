@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :feature/enable-journals? false
- :favorites ["Proposal Thesis"]
+ :favorites ["Bimbingan" "Proposal Thesis"]
  :default-home {:page "Proposal Thesis"}
  :graph/settings {:journal? false, :orphan-pages? false}
 
