@@ -1,12 +1,35 @@
+- Bertujuan memberikan label atau kategori untuk suatu dokumen
+- Text input:
+	- short document
+	- long document
+	- user generated, non formal content
+-
+- Basic Approach:
+	- preprocess
+	- feature extraction
+	- classification
+-
 - Alur text classification:
   ![image.png](../assets/image_1644804216642_0.png)
 -
+- Preprocessing
+	- refer ke [[Basic NLP]]
 -
-- Vectorization:
+-
+- Feature extraction / Vectorization:
 	- ketika satu token/kata direpresentasikan dengan satu nilai, kita tidak bisa melihat kedekatan antar kata
 	- makanya direpresentasikan ke dalam vektor
 		- word2vec
 		- bag of words
+	- bag of words banyak sekali feature/kolomnya
+		- kita bisa pake feature reduction
+			- lemmatization
+			- stemming
+			- TF/IDF
+				- tidka memerhatikan label
+			- TODO Mutual information
+				- memeratikan label
+			-
 -
 -
 - Sentiment Analysis:

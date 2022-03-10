@@ -1,0 +1,104 @@
+- Definisi Pemrosesan Bahasa Alami
+	- Computiational Linguistics
+		- mempelajari proses komputasi dalam bahasa
+		- mempelajari cara memahami, mempelajari, dan menghasilkan bahasa
+		- memadukan ilmu linguistik dengan komputasi, bagaimana ilmu linguistik dibantu dengan adanya proses komputasi
+	- Natural Language Processing
+		- Metode menyelesaikan practical problem dalam bahasa manusia
+			- translation, qna
+	- Kedua definisi di atas dianggap sama dan melebur menjadi NLP
+		- nlp adalah ilmu yang mempelajari cara membuat metode yang mampu menerima dan menghasilkan unstructured data berupa bahasa alami atau natural language
+		- nlp adalah ilmu yang berfokus dalam mendesain computational algorithm untuk menyelesaikan masalah bahasa
+			-
+- Motivasi berkembangnya NLP
+	- meledaknya sumber informasi dalam bentuk teks karena internet
+	- keperluan suatu teknologi yang user friendly
+		- voice command
+		- chatbot
+-
+- Cakupan NLP
+	- Secara prinsip, mencakup
+		- Teks
+		- Suara
+	- Pemrosesannya dibagi menjadi tiga step
+		- Natural Language Understanding
+			- mengubah teks menjadi sebuah representasi komputational yang dapat diproses dan digunakan untuk inferensi
+		- Natural Language Generation
+			- bahasa yang dihasilkan dari hasil inferensi pada natural language understanding
+		- Text Analytics
+			- lebih ke eksplisit, extracting metadata from the data
+-
+- Contoh task umum dalam NLP
+	- Information Extraction
+		- mengubah unstructured data into structured data
+	- Text Categorization
+		- spam filtering
+		- plagiarism detection
+		- sentiment analysis
+		- essay scoring
+	- Sequence to sequence
+		- mengubah input text menjadi output text yang lain
+			- machine translation
+			- spelling correction
+			- image captioning
+			- chatbot
+	-
+-
+- NLP Basic Tools
+	- bisa dibagi menjadi empat
+		- TODO lengkapin ini, tonton ulang videonya
+		- lexical (word level)
+			- Tokenization
+				- membagi satu kalimat menjadi beberapa token
+				- untuk bahasa yang katanya nyambung (kaya chinese, germany) bisa pakai maximum matching sebagai standard baseline segmentation algoithm
+			- sentence splitter
+				- cara untuk menentukan end of sentence di dalam suatu dokumen yang berisikan list of sentence
+			- stemming
+				- mengubah kata menjadi bentuk akar nya
+			- lemmatization
+				- mengubah kata menjadi kata dasar
+				- tidak disarankan mengguankan lemmatization dalam social media text karena bisa saja mengganti sense/meaning dari kata
+					- murah vs murahan
+			- stopword elimination
+				- menghilangkan kata2 penghubung, mengurangi feature
+			- entity masking
+				- url, email, username, dll
+			- spelling correction
+				- typo detection
+		- syntactic (sentence level)
+			- POSTagger
+				- postag bisa membantu sentiment analysis
+					- yang sering membantu adalah jenis kata adj, verb
+					- tapi susah dipakai di social media text, karena urutan bahasanya tidak formal
+			- Name entity tagger
+			- phrase tagger
+			- parser
+				- mencari phrase yang mengandung NP dan VP dalam kalimat
+				- ada dua jenis parsert
+					- constituent
+						- ada jenis phrase nya
+					- dependency
+						- cuma ada jenis katanya aja
+		- semantic (sentence level)
+			- semantic analysis
+			- semantic role labelling
+				- mencari argument2 dalam kalimat
+					- agent
+					- predicate
+					- theme
+					- location
+		- pragmatic (paragraph level)
+			- reference resolution
+-
+- Permasalahan dalam NLP
+	- Out of vocab
+	- ambiguitas
+		- leksikal
+		- struktural
+		- semantik
+	- low resource language
+	- dependensi antar tools
+	- execution time
+	-
+-
+	-

@@ -1,7 +1,9 @@
-- [[Preprocessing]]
+- [[Basic NLP]]
 -
 - [[Text Classification]]
 -
+- [[Word Representation]]
+-
 - [[Sequence Labelling]]
 -
--
+- [[Seq2seq transformation]]

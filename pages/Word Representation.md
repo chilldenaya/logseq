@@ -1,0 +1,22 @@
+- Word representation model
+	- one hot representation
+		- setiap kata represented vektor yang isi satu nilai 1, yaitu word index nya
+		- g ada informasi dalam vektor ini
+	- distributed representation
+		- count based model
+			- terkait dengan statistik dari kata tersebut dalam korpus
+			- tidak perlu ada label, sebelum masuk text classification apapun
+			- menggunakan
+				- co-occurence matrix (term x term)
+					- term mana yang sering keluar berbarengan dengan term lain
+				- dimensional reduction
+					- SVD
+						- matrix document x term bisa didecompose jadi matrix term, singular value, dan matrix document
+						- mengubah matrix yang sparse (banyak 0 nya) jadi lebih dense
+						- disebut juga latent semantic indexing untuk information retrieval
+							- input: query
+							- output: relevant document
+							- teknik: membandingkan query dengan document, mencari document yang paling mirip (vektornya berdekatan)s
+		- predict based model
+			-
+			-

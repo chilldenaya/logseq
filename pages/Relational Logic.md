@@ -21,6 +21,7 @@
 	- Metode pemeriksaan langsung
 	- Proof Method
 		- Inference
+		  collapsed:: true
 			- ![image.png](../assets/image_1645004385528_0.png)
 			- ![image.png](../assets/image_1645004408700_0.png)
 			- ![image.png](../assets/image_1645004490308_0.png)
@@ -28,6 +29,7 @@
 			- ![image.png](../assets/image_1645004665159_0.png)
 			-
 		- Axiom Schemata
+		  collapsed:: true
 			- ![image.png](../assets/image_1645004702986_0.png)
 			- ![image.png](../assets/image_1645004709414_0.png)
 			- ![image.png](../assets/image_1645004716103_0.png)

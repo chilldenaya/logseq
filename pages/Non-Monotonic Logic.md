@@ -62,10 +62,12 @@
 - Tipe NML reasoning type:
 	- Autoepistemic reasoning
 		- explicit
+			- gak suka yang implisit, kalo ga ada knowledge yang membuktikan bahwa P salah, berarti P benar
 		- subjective
+			- sesuai dengan keadaan, bisa diinterpretasikan berbeda di env yg berbeda
 	- Default Reasoning
 		- prototypical
-		- no-rik
+		- no-risk
 		- best guess
 		- probabilistic
 -
@@ -82,7 +84,7 @@
 		- contoh:
 			- sekarang masih pandemi
 				- kesimpulan: kita akan selalu berpikiran bahwa sekarang masih pandemi SAMPAI/UNLESS ada yang mengatakan bahwa sekarang sudah tidak pandemi
--
+- id:: 620a53cc-7b45-4ce9-9f59-fcdead768a47
 - Cara representasi kedua: Default Logic
 	- A:B / C
 		- artinya: if A is true and it is consistent to assume B true, maka C

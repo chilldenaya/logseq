@@ -8,4 +8,17 @@
 -
 - ![image.png](../assets/image_1644847200603_0.png)
 -
+- Autoepistemic reasoning:
+	- incomplete representation of complete knowledge
+	- sangat bergantung dengan konteks
+	- prinsip utama:
+		- P is valid kecuali ada yang menghasilkan kesimpulan/mengarah ke notP
+	- menggunakan explicit convention
+		- 'the next lecture will be thursday'
+		- kesimpulan: lecture selalu kamis UNLESS we are told otherwise
+	- Bersifat subjectiv
+		- ada unsur belief di dalam knowledge base nya
+		- contoh:
+			- sekarang masih pandemi
+				- kesimpulan: kita akan selalu berpikiran bahwa sekarang masih pandemi SAMPAI/UNLESS ada yang mengatakan bahwa sekarang sudah tidak pandemi
 -

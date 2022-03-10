@@ -5,6 +5,7 @@
 - <dimana saja wann sudah pernah diaplikasikan, dimana bagusnya>
 	- WANNs which encode relationships between inputs are well suited to RL tasks: low-dimensional inputs coupled with internal states and environmental interaction allow discovery of reactive and adaptive controllers. (Paper WANN)
 	- [Continuous Control](https://arxiv.org/pdf/1906.04358.pdf -- WANN paper)
+collapsed:: true
 		- TLDR: works well
 		- Salah satu bentuk task yang diselesaikan dengan reinforcement learning
 			- CartPoleSwingUp
@@ -27,13 +28,11 @@
 		-
 		-
 	- [Classification](https://weightagnostic.github.io/)
-collapsed:: true
 		- ![image.png](../assets/image_1646199625410_0.png)
 		- hasilnya gak sebagus CNN (jelas)
 		- TAPI
 			- Restricted to a single weight value, WANNs are able to classify MNIST digits as well as a single layer neural network with thousands of weights trained by gradient descent
 	- [Generative Adversarial Networks (GANs) using WANNs in Low-End Hardware](https://www.researchgate.net/profile/Fpj_Nijweide/publication/352738002_Exploring_the_feasibility_of_Weight_Agnostic_Neural_Networks_for_low-end_hardware/links/612fef622b40ec7d8bdc6757/Exploring-the-feasibility-of-Weight-Agnostic-Neural-Networks-for-low-end-hardware.pdf)
-collapsed:: true
 		- TODO GAN itu apa
 			- deepfake(?)
 		- The relevance of WANNs to this task is the fact that WANNs tend to reach high performance with very few hidden nodes, connected sparsely, and using only one weight.
