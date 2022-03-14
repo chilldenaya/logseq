@@ -5,9 +5,34 @@
 	- apakah bisa implement tensor/torch
 -
 - periksa wann ke text generation
-	- reinforcement learning secara abstratif
+	- [[Reinforcement Learning]] secara abstratif
 		- ada dua reinforcement learning:
 			- abstractive: generation,
 			- extractive: summarizaiton
 -
 -
+- Hasil baca:
+	- ada beberapa arah eksplorasi
+		- WANN sebenarnya Weight agnostic paradigm + architecture search
+			- dalam WANN, architecture search yang dipakai adalah NEAT
+			- gimana kalo pake architecture search lain? contoh: DARTS
+				- tapi kenapa harus pake yang lain? apa kelemahan dari NEAT?
+		- network pruning for word embedding
+			- berguna untuk mengurangi redundansi parameter dan menghilangkan sensitivitas model terhadap parameter inisialisasi
+			- juga mengurangi kompleksitas jaringan sebuah model
+				- ini sama dengan salah satu fungsi wann
+				- mencari embedding hidden layer terkecil -> dimensi representasi word2vec ny jadi lebih kecil
+					- TODO pelajari lagi tentang jenis2 word embedding (dan aspect embedding)
+			- apa kelemahan network pruning?
+				- Compared to our approach, pruning requires prior training of the full network to obtain useful information about each weight in advance. In addition, the architectures produced by pruning are limited to the full network, while in our method there is no upper bound on the network’s complexity. (WANN)
+				- cari kelemahan yg lain
+			- apa bisa pakai wann sebagai pengganti network pruning?
+				- TAPI kenapa harus wann?
+			- apa kelebihan network pruning dibanding wann
+				- jangan2 nanti malah wann lebih jelek
+		- reinforcement learning NLP task
+			- contoh: text generation
+			- belum nemu masalah dan kenapa harus make wann disini
+				- sejauh ini cuma tau bahwa WANN bagus untuk continuous control (dari paper wann), tapi belum nemu alasan kuat kenapa harus dipakai di nlp task
+			-
+		-
