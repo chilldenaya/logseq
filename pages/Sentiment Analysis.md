@@ -1,0 +1,32 @@
+- 3 jenis sentiment analysis:
+	- 1. Document Level
+	- 2. Aspect Based
+		- lebih bagus di akurasi
+		- aspect extraction + sentiment classification
+		- Jenis model:
+			- 1 model untuk aspect classificaition (multilabel) + n model sentiment classification (n = banyaknya aspect)
+			- n model aspect classification (single label) + n model sentiment classification
+			- 1 model aspect classification + 1 model sentiment classification
+			  id:: 6237e8b1-e81a-4ab9-8056-6cb4bae16529
+			- n model aspect classification + 1 model sentiment clsasification
+			- n buah model aspect + sentiment classification
+	- 3. Concept Based
+		- lebih bagus di fleksibilitas
+		-
+- Permasalahan dalam Sentiment Analysis:
+	- NE Recognition
+		- kebanyakan yang pake kata NE tertentu bias, contoh; ahok cenderung negatif
+	- Anaphora resolution
+	- Sarcasm
+	- bahasa non formal
+	- sentiment relative
+	- 2 label in one sentence
+	- objek utama dalam atribut
+	-
+- Relation Classification
+	- Bill gate adalah pemilik microsoft
+		- disini ada 2 NE, billgate dan microsoft
+		- classified as person-affiliator(billgate, microsoft)
+	- Secara umum:
+		- given entity tuple, classify as relation(e1, e2, ..., en)
+	-

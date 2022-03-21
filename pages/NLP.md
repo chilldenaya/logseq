@@ -7,3 +7,5 @@
 - [[Sequence Labelling]]
 -
 - [[Seq2seq transformation]]
+-
+- [[Sentiment Analysis]]

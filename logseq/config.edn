@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :feature/enable-journals? false
- :favorites ["UTS" "Bimbingan" "Proposal Thesis"]
+ :favorites ["Tugas" "UTS" "Bimbingan" "Proposal Thesis"]
  :default-home {:page "Proposal Thesis"}
  :graph/settings {:journal? false, :orphan-pages? false}
 

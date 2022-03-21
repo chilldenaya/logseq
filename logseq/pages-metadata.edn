@@ -3,7 +3,7 @@
   :block/updated-at 1646899400520}
  {:block/name "2 maret",
   :block/created-at 1646216744653,
-  :block/updated-at 1646217722327}
+  :block/updated-at 1647272626930}
  {:block/name "23 feb",
   :block/created-at 1645610324211,
   :block/updated-at 1646217033838}
@@ -106,9 +106,15 @@
  {:block/name "now",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "object oriented representation",
+  :block/created-at 1647564966363,
+  :block/updated-at 1647567365765}
  {:block/name "probabilistic reasoning",
   :block/created-at 1645751737938,
   :block/updated-at 1645752836114}
+ {:block/name "project integration management",
+  :block/created-at 1647302805346,
+  :block/updated-at 1647305791718}
  {:block/name "proposal thesis",
   :block/created-at 1644720470725,
   :block/updated-at 1645619215873}
@@ -121,6 +127,9 @@
  {:block/name "recurrent neural network",
   :block/created-at 1644721221836,
   :block/updated-at 1644747961386}
+ {:block/name "reinforcement learning",
+  :block/created-at 1647267846853,
+  :block/updated-at 1647269264878}
  {:block/name "relational logic",
   :block/created-at 1645000560748,
   :block/updated-at 1645005525215}
@@ -151,6 +160,9 @@
  {:block/name "todo",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "tugas",
+  :block/created-at 1647743556268,
+  :block/updated-at 1647744902770}
  {:block/name
   "understanding lstm -- a tutorial into long short-term memory recurrent neural networks",
   :block/created-at 1644721453860,
@@ -167,6 +179,9 @@
  {:block/name "weight agnostic neural network",
   :block/created-at 1645584338454,
   :block/updated-at 1645621909479}
+ {:block/name "word embedding",
+  :block/created-at 1647272626927,
+  :block/updated-at 1647272626927}
  {:block/name "word representation",
   :block/created-at 1646540585594, 
   :block/updated-at 1646543071696}]

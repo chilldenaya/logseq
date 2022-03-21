@@ -22,13 +22,15 @@
 			- juga mengurangi kompleksitas jaringan sebuah model
 				- ini sama dengan salah satu fungsi wann
 				- mencari embedding hidden layer terkecil -> dimensi representasi word2vec ny jadi lebih kecil
-					- TODO pelajari lagi tentang jenis2 word embedding (dan aspect embedding)
+					- TODO pelajari lagi tentang jenis2 [[Word Embedding]] (dan aspect embedding)
 			- apa kelemahan network pruning?
 				- Compared to our approach, pruning requires prior training of the full network to obtain useful information about each weight in advance. In addition, the architectures produced by pruning are limited to the full network, while in our method there is no upper bound on the network’s complexity. (WANN)
 				- cari kelemahan yg lain
 			- apa bisa pakai wann sebagai pengganti network pruning?
+			  collapsed:: true
 				- TAPI kenapa harus wann?
 			- apa kelebihan network pruning dibanding wann
+			  collapsed:: true
 				- jangan2 nanti malah wann lebih jelek
 		- reinforcement learning NLP task
 			- contoh: text generation
