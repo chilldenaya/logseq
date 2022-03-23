@@ -64,3 +64,5 @@
 			- ![image.png](../assets/image_1647567350538_0.png)
 			-
 	-
+- Next: [[Structured Descriptions]]
+-

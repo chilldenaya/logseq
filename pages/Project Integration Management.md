@@ -66,3 +66,5 @@
 - How to monitor
 -
 - How to close a project
+-
+- Lanjutan dari ini: [[Project Scope Management]]

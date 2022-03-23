@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -166,9 +166,10 @@
 
  :ref/linked-references-collapsed-threshold 50
  :feature/enable-journals? false
- :favorites ["Tugas" "UTS" "Bimbingan" "Proposal Thesis"]
- :default-home {:page "Proposal Thesis"}
+ :favorites ["Charity" "Tugas" "Bimbingan"]
+ :default-home {:page "Tugas"}
  :graph/settings {:journal? false, :orphan-pages? false}
+ :ui/show-brackets? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

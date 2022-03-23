@@ -34,9 +34,15 @@
  {:block/name "c",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "caf world giving index",
+  :block/created-at 1648031152305,
+  :block/updated-at 1648032059034}
  {:block/name "card",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "charity",
+  :block/created-at 1648028842151,
+  :block/updated-at 1648033270673}
  {:block/name "circumscription",
   :block/created-at 1644849563600,
   :block/updated-at 1644850886725}
@@ -73,6 +79,9 @@
  {:block/name "gated recurrent unit",
   :block/created-at 1646899400520,
   :block/updated-at 1646899400520}
+ {:block/name "gopay kopernik study",
+  :block/created-at 1648028873528,
+  :block/updated-at 1648029251126}
  {:block/name "in-progress",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
@@ -99,7 +108,7 @@
   :block/updated-at 1646899400520}
  {:block/name "nlp",
   :block/created-at 1644804213917,
-  :block/updated-at 1646464408538}
+  :block/updated-at 1647828560293}
  {:block/name "non-monotonic logic",
   :block/created-at 1644841991338,
   :block/updated-at 1646921882424}
@@ -108,13 +117,19 @@
   :block/updated-at 1644671818819}
  {:block/name "object oriented representation",
   :block/created-at 1647564966363,
-  :block/updated-at 1647567365765}
+  :block/updated-at 1648050775428}
+ {:block/name "oxytocin",
+  :block/created-at 1648033270671,
+  :block/updated-at 1648033469300}
  {:block/name "probabilistic reasoning",
   :block/created-at 1645751737938,
   :block/updated-at 1645752836114}
  {:block/name "project integration management",
   :block/created-at 1647302805346,
   :block/updated-at 1647305791718}
+ {:block/name "project scope management",
+  :block/created-at 1647919345857,
+  :block/updated-at 1647919345857}
  {:block/name "proposal thesis",
   :block/created-at 1644720470725,
   :block/updated-at 1645619215873}
@@ -145,6 +160,9 @@
  {:block/name "sampling reality",
   :block/created-at 1645326660254,
   :block/updated-at 1645339514217}
+ {:block/name "sentiment analysis",
+  :block/created-at 1647828560292,
+  :block/updated-at 1647831730866}
  {:block/name "seq2seq transformation",
   :block/created-at 1646899400520,
   :block/updated-at 1646899400520}
@@ -154,6 +172,12 @@
  {:block/name "sequence model",
   :block/created-at 1644722027740,
   :block/updated-at 1644804406176}
+ {:block/name "seven faces of philanthropy",
+  :block/created-at 1648029327157,
+  :block/updated-at 1648030007377}
+ {:block/name "structured descriptions",
+  :block/created-at 1648050774868,
+  :block/updated-at 1648051178401}
  {:block/name "text classification",
   :block/created-at 1644804989039,
   :block/updated-at 1646540573914}
@@ -161,8 +185,11 @@
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
  {:block/name "tugas",
+  :block/created-at 1647832556470,
+  :block/updated-at 1647832561904}
+ {:block/name "tugas minggu 10",
   :block/created-at 1647743556268,
-  :block/updated-at 1647744902770}
+  :block/updated-at 1647834285027}
  {:block/name
   "understanding lstm -- a tutorial into long short-term memory recurrent neural networks",
   :block/created-at 1644721453860,

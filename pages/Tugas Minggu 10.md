@@ -1,8 +1,8 @@
 - Jadwal:
 	- Senin: COOL Travel
 	- Selasa: Text summarization, Reinforcement Learning
-	- Rabu: Deep Reinforcement Learning
-	- Kamis: Traditional ML
+	- Rabu: Deep Reinforcement Learning, COOL Travel
+	- Kamis: Daftar indoNLU, Traditional ML
 	- Jumat: Non Contextual Embedding
 	- Sabtu: Contextual Embedding
 	- Minggu: COOL medical history, interim report ADB 2
