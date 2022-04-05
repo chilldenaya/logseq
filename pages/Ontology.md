@@ -1,0 +1,18 @@
+- What is ontology
+	- bidang ilmu dan konsep
+	- deskripsi formal dan explisit untuk suatu konsep dalam domain
+	- contoh: daftar isi
+		- mengaitkan antar konsep atau vocabulary yang memiliki karakteristik sama menjadi satu topik
+-
+- Why develop ontology
+	- sharing common undestanding
+	- enabling reuse of domain knowledge
+		- bisa menggunakan definisi dari domain lain dan direuse ke domain lainnya
+	- making explicit domain assumptions
+		- dibuat seeksplisit mungkin sehingga tidak ada kesalahan pendeskripsian
+	- separate domain knowledge from operational knowledge
+	- analyzing domain knowledge
+	-
+- contoh query protege:
+	- makanan yang terbuat dari chicken and basil
+		- recipe and ('has ingredient' value chicken) and ('has ingredient' value basil)

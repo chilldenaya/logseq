@@ -29,4 +29,4 @@
 		- classified as person-affiliator(billgate, microsoft)
 	- Secara umum:
 		- given entity tuple, classify as relation(e1, e2, ..., en)
-	-
+-

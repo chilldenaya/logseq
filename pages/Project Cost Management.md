@@ -1,0 +1,47 @@
+- Biaya yang kita keluarkan untuk menghasilkan suatu deriverable product
+- Untuk mempersiapkan berapa jumlah uang yang harus dipersiapkan, dan juga biaya yang tidak berdampak langsung tapi harus tetap dipersiapkan, seperti biaya jaga2
+- menghindari kerugian setelah deriverable
+- ![image.png](../assets/image_1649117256105_0.png){:height 295, :width 749}
+-
+- Cost:
+	- sumber daya yang dikorbankan untuk mencapai tujuan spesifik
+	- biasa satuannya adalah rupiah
+	- project cost management: bagaimana memanage agar biaya yang sudah ditetapkan tidak berlebih dan tidak kurang, artinya dalam range yang tepat
+-
+- Project cost management process:
+	- planning
+		- uses expert judgement, analytical techniques, and meetings
+	- estimating
+		- ![image.png](../assets/image_1649119377914_0.png)
+		- ![image.png](../assets/image_1649119047531_0.png){:height 229, :width 547}
+	- determining budget
+		- ![image.png](../assets/image_1649120068354_0.png)
+	- controlling cost
+		-
+-
+- Basic principles of cost management:
+	- profit
+	- profit margin:
+		- rasio pendapatan terhadap keuntungan
+	- lifecycle costing
+		- mempertimbangkan total biaya kepemilikan + support
+	- cashflow analysis
+		- menetapkan perkiraan biaya tahunan
+	- reserves
+		- cadangan uang untuk mitigasi risiko, meringankan kemungkinan terjadinya gagal deliver product
+		- contingency reservers: known unknown
+		- management reservers: unknown unknown
+	-
+- type of costs:
+	- tangible cost (biaya nyata)
+		- biaya atau manfaat bagi organisasi yang dapat diukur secara mudah
+		- contoh: bahan baku produk pisang goreng
+	- intangible cost
+	- direct cost
+	- indirect cost
+		- nonrelated to product (contoh; traktiran stakeholder)
+	- sunk cost
+	-
+-
+	-
+	-

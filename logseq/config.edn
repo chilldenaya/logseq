@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :feature/enable-journals? false
- :favorites ["Charity" "Tugas" "Bimbingan"]
+ :favorites ["Proposal Thesis" "Job" "Charity" "Tugas" "Bimbingan"]
  :default-home {:page "Tugas"}
  :graph/settings {:journal? false, :orphan-pages? false}
  :ui/show-brackets? true

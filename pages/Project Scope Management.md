@@ -66,5 +66,6 @@
 - Managing User Input
 	- ![image.png](../assets/image_1647911647385_0.png)
 	-
+- Lanjutan: [[Project Time Management]]
 -
 -

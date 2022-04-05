@@ -1,0 +1,51 @@
+- Segari
+	- via vp eng
+- Ovo
+- gojek
+	- https://career.gojek.com/job/software-engineer-backend-payments-gopay-737db79594cf4193a09d68e5212c71b0/
+- tokopedia
+	- https://tokopedia.darwinbox.com/ms/candidate/applications
+	- applied via  web
+- efishery
+	- https://efishery.com/en/job/backend-engineer/
+	- applied via web and linkedin
+- traveloka
+- bukalapak
+- kitabisa
+- happyfresh
+- glints
+- halodoc
+	- java, go
+	- https://glints.com/id/opportunities/jobs/backend-sde/7cafa7af-14cc-41a5-a4d0-4aaaa43336ee
+- pinhome
+	- https://www.pinhome.id/pages/career/
+	- Working with several tech stacks, including golang, react.js, next.js, and flutter
+	- ada ropi
+	- applied via pm to cto
+	-
+- sirclo
+	- go, python, php
+	- applied via linkedin pm to hr
+-
+-
+- Interview
+	- first of all, thanks for the interview opportunity
+	- my name is denaya
+	- 23 years old, currently lives in Bandung
+	- i am a remote backend engineer in a startup called delman.io.
+	- it's a big data enabler and provides data solutions focused on data preparation and integration across multiple big data sources.
+	- I started working at delman.io since July 2020. It's almost 2 years now.
+	- Before, i worked in kumparan, a digital media company as a data scientist
+	- other than that, I worked as a freelance too, working for several companies building resource planning web dashboards. worked as the backend engineer and the deployment guy (i think you can call it a DevOps?)
+	- Besides working full-time, I am currently studying for a master's degree in ITB in informatics and hopefully will graduate next year in 2023
+-
+- why quit?
+	- learning curve, slow beginning, rapid learning, inflection point, learning becomes slow and effortful
+		- i want to learn more, in this case, learn how to use Golang, specifically looking for a golang developer opportunity
+	- new environment
+		- making new friends, connections, im not going to work as employee forever, will make my own startup, want to learn stuffs behind it, make connections, friends, and experiencet
+	- benefit
+		- i mean, its pretty straightforward
+-
+	-
+	-

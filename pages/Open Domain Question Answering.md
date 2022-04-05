@@ -1,0 +1,4 @@
+- Disebut juga dengan interactive QA
+- pertanyaan yang diberikan user biasanya tidak lengkap
+	- pertanyaan nya harus diextract menjadi query
+	-

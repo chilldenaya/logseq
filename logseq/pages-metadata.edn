@@ -85,6 +85,9 @@
  {:block/name "in-progress",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
+ {:block/name "job",
+  :block/created-at 1648702869606,
+  :block/updated-at 1649145828657}
  {:block/name "knowledge representation and reasoning",
   :block/created-at 1644986973065,
   :block/updated-at 1645054735799}
@@ -118,21 +121,33 @@
  {:block/name "object oriented representation",
   :block/created-at 1647564966363,
   :block/updated-at 1648050775428}
+ {:block/name "ontology",
+  :block/created-at 1648774958148,
+  :block/updated-at 1648778664864}
+ {:block/name "open domain question answering",
+  :block/created-at 1648433125865,
+  :block/updated-at 1648433284955}
  {:block/name "oxytocin",
   :block/created-at 1648033270671,
   :block/updated-at 1648033469300}
  {:block/name "probabilistic reasoning",
   :block/created-at 1645751737938,
   :block/updated-at 1645752836114}
+ {:block/name "project cost management",
+  :block/created-at 1649116975439,
+  :block/updated-at 1649120107878}
  {:block/name "project integration management",
   :block/created-at 1647302805346,
   :block/updated-at 1647305791718}
  {:block/name "project scope management",
   :block/created-at 1647919345857,
-  :block/updated-at 1647919345857}
+  :block/updated-at 1648512373448}
+ {:block/name "project time management",
+  :block/created-at 1648512368245,
+  :block/updated-at 1649116975440}
  {:block/name "proposal thesis",
   :block/created-at 1644720470725,
-  :block/updated-at 1645619215873}
+  :block/updated-at 1649169005669}
  {:block/name "propositional logic",
   :block/created-at 1644993621493,
   :block/updated-at 1645055056418}
@@ -162,7 +177,7 @@
   :block/updated-at 1645339514217}
  {:block/name "sentiment analysis",
   :block/created-at 1647828560292,
-  :block/updated-at 1647831730866}
+  :block/updated-at 1648433112017}
  {:block/name "seq2seq transformation",
   :block/created-at 1646899400520,
   :block/updated-at 1646899400520}
@@ -177,7 +192,7 @@
   :block/updated-at 1648030007377}
  {:block/name "structured descriptions",
   :block/created-at 1648050774868,
-  :block/updated-at 1648051178401}
+  :block/updated-at 1648775623015}
  {:block/name "text classification",
   :block/created-at 1644804989039,
   :block/updated-at 1646540573914}
