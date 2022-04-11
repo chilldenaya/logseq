@@ -9,9 +9,9 @@
 	- tapi, karena dipandang sebagai sequential labelling, perlu anotasi data latih (labelling training set)
 	- membuat satu dokumen dengan N token memerlukan N anotasi label.
 	- cara menghindari ini adalah dengan menggunakan metode unsupervised
-		- disini perlu jelasin contoh metode unsupervised yang lain kah?
 	- salah satu cara yang digunakan adalah deep q network -> sentence and document encoder + reinforcement learning
-		- apa boleh langsung begini? apa perlu mencaritahu kenapa pakai reinforcement learning? kenapa bukan metode lain?
+		- apa boleh langsung begini? apa perlu mencaritahu kenapa pakai reinforcement learning? kenapa bukan metode lain yang juga bisa unsupervised?
+		  id:: 624c518e-af6a-4581-a03d-4ce9804c8e0c
 	- di DQN, sentence encoder ny menggunakan RNN/CNN
 	- tapi masalahnya apa?
 		- ini belum nemu masalah kenapa RNN atau CNN are worse than transformers like BERT

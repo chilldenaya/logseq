@@ -18,4 +18,80 @@
 	  represent the state or observation, and/or to approximate any of the following components of reinforcement learning: value function, vˆ(s; θ) or qˆ(s, a; θ), policy π(a|s; θ), and model (state transition function and reward function).
 	- Deep RL algorithms are able to take in very large inputs (e.g. every pixel rendered to the screen in a video game) and decide what actions to perform to optimize an objective (eg. maximizing the game score) (https://en.wikipedia.org/wiki/Deep_reinforcement_learning#cite_note-francoislavet2018-1)
 	- Deep reinforcement learning has been used for a diverse set of applications including but not limited to robotics, video games, natural language processing, computer vision, education, transportation, finance and healthcare. [1]
-	-
+-
+-
+- # Sutton - Reinforcement Learning
+- ## 1.1 Reinforcement Learning
+- ### Introduction
+- Reinforcement learning problems involve learning what to do—how to map situations to actions—so as to maximize a numerical reward signal
+- These three characteristics
+	- being closed-loop in an essential way,
+		- they are closed-loop problems because the learning system’s actions influence its later inputs
+	- not having direct instructions as to what actions to take,
+		- must discover which actions yield the most reward by trying them out
+	- and where the consequences of actions, including reward signals,
+		- actions may affect not only the immediate reward but also the next situation and, through that, all subsequent rewards
+	- play out over extended time periods—are the three most important distinguishing features of reinforcement learning problems.
+- Agent
+	- Clearly, such an agent must be able to sense the state of the environment to some extent
+	  and must be able to take actions that affect the state
+- Reinforcement learning is different from unsupervised learning
+	- unsupervised learning is typically about finding structure hidden in collections of unlabeled data.
+	- Although one might be tempted to think of reinforcement learning as a kind of unsupervised learning because it does not rely on examples of correct behavior, reinforcement learning is trying to maximize a reward signal instead of trying to find hidden structure
+-
+- ### Exploration vs Exploitation
+- One of the challenges that arise in reinforcement learning, and not in other kinds of learning, is the trade-off between exploration and exploitation
+- Exploitation:
+	- To obtain a lot of reward, a reinforcement learning agent must prefer actions that it has tried in the past and found to be effective in producing reward
+- Exploration:
+	- But to discover such actions, it has to try actions that it has not selected before
+-
+- ## 1.2 Examples
+- A master chess player makes a move. The choice is informed both by planning—anticipating possible replies and counterreplies—and by immediate, intuitive judgments of the desirability of particular positions and moves.
+- All involve interaction between an active decision-making agent and its environment, within which the agent seeks to achieve a goal despite uncertainty about its environment
+- The agent’s actions are permitted to affect the future state of the environment thereby affecting the options and opportunities available to the agent at later times
+- In all of these examples the agent can use its experience to improve its performance over time. The chess player refines the intuition he uses to evaluate positions, thereby improving his play
+-
+- ## 1.3 Element of Reinforcement Learning
+- Beyond the agent and the environment, one can identify four main subelements of a reinforcement learning system:
+	- a policy,
+	- a reward signal,
+	- a value function, and, optionally,
+	- a model of the environment
+-
+- ## Policy
+- A policy defines the learning agent’s way of behaving at a given time
+- a policy is a mapping from perceived states of the environment to actions to be taken when in those states
+	- states + policy -> action
+- The policy is the core of a reinforcement learning agent in the sense that it alone is sufficient to determine behavior. In general, policies may be stochastic.
+-
+- ## Reward
+- A reward signal defines the goal in a reinforcement learning problem
+- On each time step, the environment sends to the reinforcement learning agent a single number, a reward
+- The reward signal thus defines what are the good and bad events for the agent
+- The agent’s sole objective is to maximize the total reward it receives over the long run
+- The reward signal is the primary basis for altering the policy. If an action selected by the
+  policy is followed by low reward, then the policy may be changed to select some other action in that situation in the future
+-
+- ## Value Function
+- a value function specifies what is good in the long run
+- value of a state is the total amount of reward an agent can expect to accumulate over the future, starting from that state.
+- values indicate the long-term desirability of states after taking into account the states that are
+  likely to follow, and the rewards available in those states. For example, a state might always yield a low immediate reward but still have a high value because it is regularly followed by other states that yield high rewards
+- Rewards are basically given directly by the environment, but values must be estimated and re-estimated from the sequences of observations an agent makes over its entire lifetime
+- There is a methods that do not appeal to value functions.
+	- called **policy gradient methods**
+	- These methods search in spaces of policies defined by a collection of numerical parameters
+	- They estimate the directions the parameters should be adjusted in order to most rapidly improve a policy’s performance
+	- they produce these estimates while the agent is interacting with its environment and so can take
+	  advantage of the details of individual behavioral interactions
+-
+- ## Environment Model
+- This is something that mimics the behavior of the environment, or more generally, that allows inferences to be made about how the environment will behave
+- given a state and action, the model might predict the resultant next state and next reward
+- Methods for solving reinforcement learning problems that use models and planning are called model-based methods, as opposed to simpler model free methods that are explicitly trial-and-error learners
+-
+- # Scope
+- ## Policy Gradient Methods
+-
+-

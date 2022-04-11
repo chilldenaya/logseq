@@ -87,7 +87,7 @@
   :block/updated-at 1644671818819}
  {:block/name "job",
   :block/created-at 1648702869606,
-  :block/updated-at 1649145828657}
+  :block/updated-at 1649297548434}
  {:block/name "knowledge representation and reasoning",
   :block/created-at 1644986973065,
   :block/updated-at 1645054735799}
@@ -147,7 +147,7 @@
   :block/updated-at 1649116975440}
  {:block/name "proposal thesis",
   :block/created-at 1644720470725,
-  :block/updated-at 1649169005669}
+  :block/updated-at 1649348308841}
  {:block/name "propositional logic",
   :block/created-at 1644993621493,
   :block/updated-at 1645055056418}
