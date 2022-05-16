@@ -87,7 +87,7 @@
   :block/updated-at 1644671818819}
  {:block/name "job",
   :block/created-at 1648702869606,
-  :block/updated-at 1649297548434}
+  :block/updated-at 1650521515281}
  {:block/name "knowledge representation and reasoning",
   :block/created-at 1644986973065,
   :block/updated-at 1645054735799}
@@ -123,7 +123,7 @@
   :block/updated-at 1648050775428}
  {:block/name "ontology",
   :block/created-at 1648774958148,
-  :block/updated-at 1648778664864}
+  :block/updated-at 1649895983753}
  {:block/name "open domain question answering",
   :block/created-at 1648433125865,
   :block/updated-at 1648433284955}
@@ -135,10 +135,13 @@
   :block/updated-at 1645752836114}
  {:block/name "project cost management",
   :block/created-at 1649116975439,
-  :block/updated-at 1649120107878}
+  :block/updated-at 1649721302175}
  {:block/name "project integration management",
   :block/created-at 1647302805346,
   :block/updated-at 1647305791718}
+ {:block/name "project quality management",
+  :block/created-at 1649721302171,
+  :block/updated-at 1649725737860}
  {:block/name "project scope management",
   :block/created-at 1647919345857,
   :block/updated-at 1648512373448}
@@ -159,7 +162,7 @@
   :block/updated-at 1644747961386}
  {:block/name "reinforcement learning",
   :block/created-at 1647267846853,
-  :block/updated-at 1647269264878}
+  :block/updated-at 1651474688590}
  {:block/name "relational logic",
   :block/created-at 1645000560748,
   :block/updated-at 1645005525215}
@@ -175,6 +178,12 @@
  {:block/name "sampling reality",
   :block/created-at 1645326660254,
   :block/updated-at 1645339514217}
+ {:block/name "semantic web",
+  :block/created-at 1649895983749,
+  :block/updated-at 1649899159784}
+ {:block/name "seminar s1",
+  :block/created-at 1652332368194,
+  :block/updated-at 1652334542481}
  {:block/name "sentiment analysis",
   :block/created-at 1647828560292,
   :block/updated-at 1648433112017}
@@ -196,15 +205,24 @@
  {:block/name "text classification",
   :block/created-at 1644804989039,
   :block/updated-at 1646540573914}
+ {:block/name "thesis todo",
+  :block/created-at 1652332343183,
+  :block/updated-at 1652343310740}
+ {:block/name "timeline",
+  :block/created-at 1652096229114,
+  :block/updated-at 1652096229114}
  {:block/name "todo",
   :block/created-at 1644671818819,
   :block/updated-at 1644671818819}
  {:block/name "tugas",
   :block/created-at 1647832556470,
-  :block/updated-at 1647832561904}
+  :block/updated-at 1650957896574}
  {:block/name "tugas minggu 10",
   :block/created-at 1647743556268,
   :block/updated-at 1647834285027}
+ {:block/name "uas",
+  :block/created-at 1650426979496,
+  :block/updated-at 1651311473530}
  {:block/name
   "understanding lstm -- a tutorial into long short-term memory recurrent neural networks",
   :block/created-at 1644721453860,

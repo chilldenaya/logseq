@@ -1,0 +1,21 @@
+- enhancement of world wide web with machine-understandable information, together with services -- intelligent agents -- utilizing this information
+	- machine understandable: ada standardisasi penyimpanan informasi, jadi gak ada yang merepresentasikan knowledge nya dengan salah karena ambiguitas. Agent nya bisa menelusuri web seperti manusia
+	- for the semantic web to function, computers must have access to structured collections of informations and sets of inference rules that they can use to conduct automated computing
+		- dengan URI / IRI / RDF
+-
+- Evolutionary list file
+	- hypertext: text which contains links to other texts
+	- hypermedia: extension of term hypertext: contains media
+-
+- Semantic web vs www:
+	- semantic web: web of data
+	- www: web of document
+-
+- LInked data:
+	- way of publishing data on the semantic web
+		- encourage reuse
+		- reduce redundancy
+		- maximise interconnectedness
+		- enable network effect to add value to data
+-
+-

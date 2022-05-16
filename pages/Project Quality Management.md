@@ -1,0 +1,48 @@
+- Importance of Quality Management
+- Quality Control Definition
+	- quality:
+		- degree of which set of inherent charactereistics fulfill requirements
+		- produk yang dibuat sesuai dengan spesifikasi yang tertulis
+		- product can be used as intended
+	-
+	-
+	-
+- Quality Management Processes
+	- Plan QM
+		- implies the ability to anticipate situations and prepare action to bring about the desired outcome
+	- Performing QA
+		- peningkatan kualitas yang berkelanjutan (kaizen)
+		- melakukan evaluasi atas proses untuk memaksimalkan customer value, dan pada saat yang bersamaan kita melakukan minimalisasi hal2 tak berguna (waste)
+			- dalam software engineering mungkin minimalisasi waktu
+	- Performing QC
+		- tujuan:
+			- acceptance decision
+			- rework
+			- process adjustment
+		- seven basic tools for QC:
+			- cause and effect diagram: menyelesaikan masalah yang ada
+			- QC chart: mencegah terjadinya cacat
+			- checksheet: collect and analyze data
+			- histogram
+			- pareto chart
+			- flowchart
+			- runchart
+			- six sigma
+			-
+			-
+-
+- Scopes of IT Project
+	- functionality: sesuai dengan fungsinya, aplikasinya berjalan
+	- feature: karakteristik spesial dari program yang menarik user, fokus dari aplikasi
+	- system output:
+	- performance: seberapa baik produk sesuai dengan kebutuhan customer
+	- reliability: keandalan dan kemampuan sebuah produk atau service seperti yang diharapkan konsumen pada kondisi normal
+	- maintainability: kemampuan dan kemudahan aplikasi untuk dikelola dan diperbaiki
+-
+- whos responsible of project quality?
+	- PM adalah pihak yang bertanggungjawab atas kualitas pekerjaan dari produk
+	- sebaiknya PM harus memahami acuan yang ada di dalam kualitas proyek, misalnya berdasarkan ISO, IEEE, atau asosiasi yang lainnya.
+	-
+- Tools for QC
+- Modern QM
+- Cost of Quality

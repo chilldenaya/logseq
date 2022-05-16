@@ -74,7 +74,7 @@
 		- critical chain scheduling
 		- PERT analysis
 -
-- menarik: 20 second rule (The hapiness advantage)
+- menarik: 20 second rule (The happiness advantage)
 -
 - Agile and Time Management
 	-

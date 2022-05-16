@@ -42,6 +42,7 @@
 		- nonrelated to product (contoh; traktiran stakeholder)
 	- sunk cost
 	-
--
+- next: [[Project Quality Management]]
+	-
 	-
 	-

@@ -1,0 +1,22 @@
+- Halaman 18
+	- x_i disini apa ya
+		- ini maksudnya vector concatenation kan
+		- ini vektor apa matrix
+		- kenapa pakai 3 ini? apa misal word embeddingnya saja tidak cukup?
+-
+- dataset propbank ini bentuknya kaya gimana ya
+	- gimana bentuk dataset yang bisa mengandung dua predikat ini
+-
+- kualitas dataset kurang baik
+	- in maksudnya gimana?
+	- kurang baik di mananya?
+-
+- word2vec bert character embedding ini digunakan ketiganya sekaligus atau satu2?
+	- di eksperimen pakai word2vec sama fasttext, mana yang dipake?
+-
+- pruning ny ngapain?
+-
+- token input nya ini ttep kata tapi outputnya adalah labeled phrase?
+-
+-
+-

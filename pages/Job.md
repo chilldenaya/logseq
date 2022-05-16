@@ -121,7 +121,17 @@
 	- message broker
 		- Pub/Sub is commonly used to distribute change events from databases (data streaming). These events can be used to construct a view of the database state and state history in BigQuery and other data storage systems.
 	-
--
+- kalo masalah perpegawaian aku bilangnya ke siapa ya
+- Aku berencana bulan ini jadi bulan terakhir kerja di delman
+	- rencananya akan pindah ke pinhome
+	- alasannya? aku rasa kaya gas ku udah habis di delman. aku merasa kurang produktif, kemungkinan besar karena burnout
+		- ini bukan sama sekali karena lingkungan delman, aku suka banget sma delman
+		- kayanya dari akunya perlu hal baru yang bisa buat lebih semangat lagi buat belajar
+		- kalo diretain:
+			- ini udah aku sempet pikirin juga
+			- tapi kayanya aku gak akan ambil offer dari delman untuk ngeretain, aku mau coba hal baru, semoga bisa ningkatin semangatku juga. tapi bukan berarti kerjaan di delman jelek ya mas, enggak. aku suka bgt sma delman, cuma setelah lama pikir2 kayanya ini memang dari dalem diriku aja
+	- ini belum kubilang ke mas ray dan mas david, apa aku perlu bilang atau mas one yang akan bilangin?
+	-
 	-
 		-
 		-

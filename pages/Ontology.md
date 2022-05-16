@@ -16,3 +16,6 @@
 - contoh query protege:
 	- makanan yang terbuat dari chicken and basil
 		- recipe and ('has ingredient' value chicken) and ('has ingredient' value basil)
+-
+- Next: [[Semantic Web]]
+-

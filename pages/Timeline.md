@@ -1,0 +1,52 @@
+- Sabtu, 7 Mei
+	- DONE breakdown task untuk seminggu ini
+	- DONE belajar SentenceBERT
+	- DONE pelajari cara nulis bab 3
+- Minggu, 8 Mei
+	- DONE  Beli tiket travel
+		- 11.15
+	- DONE periksa materi [[MPSI]]
+	- DONE breakdown materi [[MPSI]] harus diselesaiin sampe mana aja
+	- DONE pelajari materi mpsi nya
+	- DONE siapin bacaan MPSI untuk di jalan besok
+	- DONE mulai nulis bab 3
+	- DONE semua bab 3 harus at least 60%, supaya besoknya bisa memastikan apakah yang ditulis udah sesuai
+	- DONE pastikan semua kecharge, packing
+	- DONE rapidtest
+- Senin, 9 Mei
+	- DONE pelajari sisa materi mpsi
+	- DONE lapor ke bu masayu, minta bimbingan
+	- DONE revisi bab 1
+	- DONE belajar mpsi
+	- DONE meeting sma paung bahas facebook connector
+- Selasa, 10 Mei
+	- UAS:
+		- DONE review terakhir sebelum ujian
+		- DONE ujiannnnnn
+	- Thesis:
+		- DONE perbaiki gambar skema kerja DQN, tambah input dan output dari masing2 step
+			- gambar: https://docs.google.com/presentation/d/1Ykc3tQR0OjtkMyRdcNnxDG6iOoOjtMP67vPAJ-jcth8/edit#slide=id.p
+		- DONE buat rancangan arsitektur untuk bab 3
+		  :LOGBOOK:
+		  CLOCK: [2022-05-08 Sun 18:32:30]--[2022-05-08 Sun 18:32:33] =>  00:00:03
+		  CLOCK: [2022-05-08 Sun 18:32:33]--[2022-05-08 Sun 18:32:33] =>  00:00:00
+		  :END:
+		- TODO desain eksperimen dan evaluasi kinerja (bab 3.3)
+		- TODO tanya yang masih bingung ke bu masayu [[UAS]]
+		- TODO selesaikan buat algoritma dqn bab 2
+			- https://www.overleaf.com/project/6274a7c0c43fb54aa6b6444b
+		- TODO harus udah submit ke google classroom
+		- TODO daftar isi, daftar gambar, daftar tabel, dll
+		- TODO benerin semua referensi mendeley
+	- Delman:
+		- DONE buat longlast access token
+		  id:: 70f4a07d-c710-4959-b7f0-e7bc9fc9179e
+		- TODO AT LEAST push import facebook connector
+		- TODO AT LEAST liat custom connector skg kaya apa
+		- TODO buat facebook docs: how to make access token dkk nya
+		- TODO buat handover docs
+- Rabu, 11 Mei
+-
+- Kamis, 12 Mei
+-
+-
