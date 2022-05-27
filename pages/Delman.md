@@ -1,0 +1,18 @@
+- Selasa, 24 Mei 2022
+	- DONE code review Dzaky
+		- DONE data scaling
+		- DONE outlier detect
+		- DONE resample time series data
+	- TODO coba baca2 GitLab oauth2
+	- DONE production support
+		- DONE tunas
+		- DONE cloud
+		- DONE masih ada error gsheets yang udah ditanya ke bang one
+	- TODO candidate test
+		- TODO dimmas
+		- TODO iqbal
+		- TODO angga
+	- TODO facebook
+		- TODO merge ke epic
+		- TODO facebook documentation
+-
