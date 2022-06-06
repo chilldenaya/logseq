@@ -1,3 +1,43 @@
+- Rabu, 1 Juni 2022
+	- TODO baca ulang presentasi
+	- TODO latihan presentasi
+	- TODO baca ulang gimana dataset dibuat
+-
+- Selasa, 31 Mei 2022
+	- kerja di perpus yey
+	- DONE belajar ulang attention, kenapa attention bisa mengatasi long distance dependency
+		- https://towardsdatascience.com/an-intuitive-explanation-of-self-attention-4f72709638e1
+		- attention -> self-attention -> transformer -> BERT -> SentenceBERT
+	- DONE belajar LSTM
+		- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+	- TODO belajar tentang BERT in general
+	- TODO baca paper yang jadi acuan tentang CNN punya masalah long-distance dependency
+	- DONE latihan presentasi
+-
+- Senin, 30 Mei 2022
+	- DONE belajar ROUGE N dan L
+	- DONE belajar REINFORCE
+	- DONE belajar tentang SBERT, gimana proses finetuned nya
+-
+- Minggu, 29 Mei 2022
+	- DONE fixing presentasi
+	- DONE Latihan presentasi
+-
+- Sabtu, 28 Mei 2022
+	- DONE buat presentasi
+-
+- Jumat, 27 Mei 2022
+	- DONE kenapa perlu reinforcement learning? kenapa enggak yang biasa
+		- DONE yang biasa itu gimana?
+		  :LOGBOOK:
+		  CLOCK: [2022-05-30 Mon 16:09:48]--[2022-05-30 Mon 16:09:49] =>  00:00:01
+		  :END:
+			- tidak secara langsung mengoptimasi apa yang mau ditest
+			- dia mengoptimasi cross entrophy, tapi yang ditest rouge
+			- kalau pake reinforcement learning, bisa langsung mengoptimasi evaluation metrics nya
+			- selain itu, perlu anotasi ambahan untuk memanfaatkan dataset yang abstraktif
+	- DONE Baca ulang sistem learning di Narayan
+-
 - Rabu, 25 Mei 2022
 	- DONE benerin typo
 	- DONE analisis solusi: gimana cara mengadaptasi ke bahasa indonesia
